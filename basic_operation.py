@@ -1,5 +1,5 @@
 number1 = 10
-number2 = 5
+number2 = 30
 
 # Perform arithmetic operations
 sum_result = number1 + number2
